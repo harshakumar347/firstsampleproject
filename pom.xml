@@ -5,13 +5,13 @@
     <groupId>com.example</groupId>
     <artifactId>jerseywebapp</artifactId>
     <packaging>war</packaging>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
     <name>jerseywebapp</name>
     <scm>
 	<connection>scm:git:git@github.com:harshakumar347/firstsampleproject.git</connection>
 	<url>scm:git:git@github.com:harshakumar347/firstsampleproject.git</url>
 	<developerConnection>scm:git:git@github.com:harshakumar347/firstsampleproject.git</developerConnection>
-    <tag>JerseryApp</tag>
+    <tag>HEAD</tag>
   </scm>
     <build>
         <finalName>jerseywebapp</finalName>
